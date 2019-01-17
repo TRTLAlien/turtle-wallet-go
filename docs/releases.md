@@ -189,7 +189,7 @@ TurtleCoin-Nest-0.22-Linux.tar.gz:
 - button to send full balance
 - on windows: no more black window (walletd)
 - app icon for executable and task bar (win and mac)
-- possibility to maximize window (useful for people with small sreen/resolution)
+- possibility to maximize window (useful for people with small screen/resolution)
 - various small improvements and bug fixes
 - with walletd 0.4.2
 
